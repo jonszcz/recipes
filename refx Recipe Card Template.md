@@ -1,12 +1,12 @@
 ---
-title: Slow Cooker Corned Beef and Vegetables
+title: Some title
 source: www.interwebs.com
 makes: 10 servings
 prep time: 15 min
 cook time: 8 hours
 ---
 
-# Slow Cooker Corned Beef and Vegetables #
+# TITLE #
 ![image](image)
 
 – Prep Time: 15 min
@@ -33,5 +33,7 @@ cook time: 8 hours
 4. Remove beef and vegetables from slow cooker; cover to keep warm. Pour juices from slow cooker into 1-quart saucepan; heat to boiling. Mix cornstarch and cold water until smooth; stir into juices. Cook, stirring constantly, until sauce has thickened. Serve sauce with beef and vegetables.
 
 ## Nutrition Information ##
+
+*include when available*
 
 1 Serving: Calories 340 (Calories from Fat 160 )
