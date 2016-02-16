@@ -7,6 +7,7 @@ cook time: 8 hours
 ---
 
 # TITLE #
+
 ![image](image)
 
 – Prep Time: 15 min
@@ -23,14 +24,14 @@ cook time: 8 hours
 – 1/2 cup of water
 – 1 tablespoon Worcestershire sauce
 – 1 tablespoon cornstarch
-– 2 tablespoons cold water
+– 2 tablespoons cold waterA
 
 ## Directions ##
 
-1. Mix potatoes, carrots and onions in 4 to 6 quart slow cooker
-2. Thoroughly rinse corned beef; discard seasoning packet. Place beef on vegetables; sprinkle with pepper. Mix 1/2 cup water and the Worcestershire sauce; pour over beef.
-3. Cover and cook on low heat setting 8 to 9 hours or until beef and vegetables are tender.
-4. Remove beef and vegetables from slow cooker; cover to keep warm. Pour juices from slow cooker into 1-quart saucepan; heat to boiling. Mix cornstarch and cold water until smooth; stir into juices. Cook, stirring constantly, until sauce has thickened. Serve sauce with beef and vegetables.
+1.  Mix potatoes, carrots and onions in 4 to 6 quart slow cooker
+2.  Thoroughly rinse corned beef; discard seasoning packet. Place beef on vegetables; sprinkle with pepper. Mix 1/2 cup water and the Worcestershire sauce; pour over beef.
+3.  Cover and cook on low heat setting 8 to 9 hours or until beef and vegetables are tender.
+4.  Remove beef and vegetables from slow cooker; cover to keep warm. Pour juices from slow cooker into 1-quart saucepan; heat to boiling. Mix cornstarch and cold water until smooth; stir into juices. Cook, stirring constantly, until sauce has thickened. Serve sauce with beef and vegetables.
 
 ## Nutrition Information ##
 
